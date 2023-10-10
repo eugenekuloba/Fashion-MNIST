@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fashion MNIST Image Classification</title>
+</head>
+<body>
+    <h1>Fashion MNIST Image Classification</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Classify</button>
+    </form>
+    {% if result %}
+        <h2>Result:</h2>
+        <p>The image is classified as category {{ result }}</p>
+    {% endif %}
+</body>
+</html>
