@@ -1,5 +1,5 @@
 # Fashion MNIST Image Classification
-<img src="images/unsplash.jpg" alt="unsplash" width="949" height="400">(Photo by <a href="https://unsplash.com/@the_modern_life_mrs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Heather Ford</a> on <a href="https://unsplash.com/photos/5gkYsrH_ebY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+<img src="images/unsplash.jpg" alt="unsplash">(Photo by <a href="https://unsplash.com/@the_modern_life_mrs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Heather Ford</a> on <a href="https://unsplash.com/photos/5gkYsrH_ebY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   )
 
 #### **Author**:[Eugene Kuloba](https://github.com/eugenekuloba)
